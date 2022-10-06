@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.2",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^14.1.0",
+    "rollup-plugin-node-builtins": "^2.1.2",
+    "rollup-plugin-node-globals": "^1.4.0"
+  },
+  "dependencies": {
+    "jshashes": "^1.0.8",
+    "lodash-es": "^4.17.21"
+  }
+}
