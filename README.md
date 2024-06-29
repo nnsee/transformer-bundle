@@ -1,3 +1,4 @@
 ```
-rollup -c
+npm install
+npm run build
 ```
